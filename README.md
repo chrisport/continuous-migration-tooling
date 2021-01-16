@@ -13,4 +13,15 @@ The library is work in progress and includes or will include:
    - by using original as source of truth
    - override values of specified fields with the values from the rewrite
 
+## Get Started
 
+```
+// samples will follow 
+```
+
+## Similar Tools
+- [Scientist](https://github.com/github/scientist) for Ruby
+
+## Contribute
+
+TODO
